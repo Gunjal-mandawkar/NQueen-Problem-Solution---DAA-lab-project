@@ -55,11 +55,4 @@ Each line shows one valid arrangement of queens on a 4×4 board.
 
 ---
 
-## 🚀 How to Run
 
-1. Save the code in a file named **`NQueen.java`**
-2. Open terminal or command prompt in that folder
-3. Compile and run:
-   ```bash
-   javac NQueen.java
-   java NQueen
